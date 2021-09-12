@@ -1,0 +1,14 @@
+{
+  "name": "discord.js",
+  "version": "1.0.0",
+  "description": "Discord bot for practising",
+  "main": "src/index.js",
+  "scripts": {
+    "start" : "nodemon src/index.js"
+  },
+  "author": "Med",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1631318678.be8912a"
+  }
+}
